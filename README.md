@@ -19,7 +19,7 @@ suits you.
 ## Install
 
 ```bash
-go get github.com/ucwong/color
+go get -u github.com/ucwong/color
 ```
 
 ## Examples
