@@ -1,4 +1,4 @@
-# Archived project. No maintenance. 
+# Continue maintaining by ucowng. 
 
 This project is not maintained anymore and is archived. Feel free to fork and
 make your own changes if needed. For more detail read my blog post: [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
